@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Listview_custom_row_xml</string>
+    <string name="demo">Hello</string>
+    <color name="textcolor">#ff99ff</color>
+</resources>
